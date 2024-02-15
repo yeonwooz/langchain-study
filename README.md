@@ -15,4 +15,7 @@ py -m pip install (모듈)
 ```
 py -m streamlit run app.py
 ```
-# langchain-study
+
+
+## Key Concept
+Models - Prompts - Indexes - Memory - Chains - Agents
