@@ -16,6 +16,10 @@ py -m pip install (모듈)
 py -m streamlit run app.py
 ```
 
-
 ## Key Concept
+
 Models - Prompts - Indexes - Memory - Chains - Agents
+
+## 참고자료
+
+https://www.youtube.com/watch?v=MlK6SIjcjE8
